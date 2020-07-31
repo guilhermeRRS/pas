@@ -14,4 +14,7 @@ Temos somente dois arquivos:
   interface.py -> Uma tentativa de interface, engloba "pacotePadrao.py" e "salas.py", existem vários problemas, como o mau comportamento de mensagens de erro grande - assim como as cores escolhidas, que não estão muito padronizadas
     Toda dica para melhoria é bem-vinda, assim como qualquer melhoria
     
+  distancias.py -> Um arquivo bem simples que tenta gerar uma matriz com a distância de vários pontos levando em conta a coordenada
+    Se quiser expandir para um outro projeto é possível e interessante =)
+    
 Espero ajudar de alguma forma tendo compartilhado estes arquivos.
